@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dea462d6-b702-460d-8fe7-5a01aefa05d6" name="Changes" comment="Initialisation de l'implémentation de la fabrique avec Hello World (FactoryMethod)">
-      <change afterPath="$PROJECT_DIR$/src/ProduiA1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProduitA2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProduitFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="dea462d6-b702-460d-8fe7-5a01aefa05d6" name="Changes" comment="Finalisation de l'implémentation de la fabrique avec Deux produits (A1 et A2)">
+      <change afterPath="$PROJECT_DIR$/src/ProduitA3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ProduitA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProduitA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProduitFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProduitFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +39,11 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -63,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696496121442</updated>
-      <workItem from="1696496123263" duration="1161000" />
+      <workItem from="1696496123263" duration="1792000" />
     </task>
     <task id="LOCAL-00001" summary="Initialisation avec Hello World (Factory Method)">
       <created>1696496239446</created>
@@ -79,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696496608781</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Finalisation de l'implémentation de la fabrique avec Deux produits (A1 et A2)">
+      <created>1696497720451</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696497720451</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +109,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initialisation avec Hello World (Factory Method)" />
     <MESSAGE value="Initialisation de l'implémentation de la fabrique avec Hello World (FactoryMethod)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initialisation de l'implémentation de la fabrique avec Hello World (FactoryMethod)" />
+    <MESSAGE value="Finalisation de l'implémentation de la fabrique avec Deux produits (A1 et A2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalisation de l'implémentation de la fabrique avec Deux produits (A1 et A2)" />
   </component>
 </project>
