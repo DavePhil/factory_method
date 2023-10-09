@@ -1,4 +1,4 @@
-public class ProduiA1 extends ProduitA{
+public class ProduitA1 extends ProduitA{
 
     @Override
     public void methodeA() {

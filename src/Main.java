@@ -15,11 +15,6 @@ public class Main {
         // Produit A2
         produitA = produitFactory.getProduitA(ProduitFactory.TYPE_PRODUITA2);
         produitA.methodeA();
-        // Aller à la ligne
-        System.out.println("");
-        // Produit A3
-        produitA = produitFactory.getProduitA(ProduitFactory.TYPE_PRODUITA3);
-        produitA.methodeA();
 
         System.out.println("============ Fin ==============");
     }

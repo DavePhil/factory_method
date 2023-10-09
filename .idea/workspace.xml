@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dea462d6-b702-460d-8fe7-5a01aefa05d6" name="Changes" comment="Finalisation de l'implémentation de la fabrique avec Deux produits (A1 et A2)">
-      <change afterPath="$PROJECT_DIR$/src/ProduitA3.java" afterDir="false" />
+    <list default="true" id="dea462d6-b702-460d-8fe7-5a01aefa05d6" name="Changes" comment="Finalisation de l'implémentation de la fabrique avec trois produits (A1, A2 et A3)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProduitA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProduitA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProduiA1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProduitA1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProduitA3.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ProduitFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProduitFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/Workspace1/Master/Master1/Semestre1/INF 4067 - UML et Design Patterns/Devoir/Devoir 1/Factory/factory_method - 2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -66,7 +68,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696496121442</updated>
-      <workItem from="1696496123263" duration="1792000" />
+      <workItem from="1696496123263" duration="3111000" />
+      <workItem from="1696518863684" duration="5000" />
+      <workItem from="1696522562589" duration="147000" />
+      <workItem from="1696830665019" duration="250000" />
     </task>
     <task id="LOCAL-00001" summary="Initialisation avec Hello World (Factory Method)">
       <created>1696496239446</created>
@@ -89,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696497720451</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Finalisation de l'implémentation de la fabrique avec trois produits (A1, A2 et A3)">
+      <created>1696498057862</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696498057862</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +122,7 @@
     <MESSAGE value="Initialisation avec Hello World (Factory Method)" />
     <MESSAGE value="Initialisation de l'implémentation de la fabrique avec Hello World (FactoryMethod)" />
     <MESSAGE value="Finalisation de l'implémentation de la fabrique avec Deux produits (A1 et A2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finalisation de l'implémentation de la fabrique avec Deux produits (A1 et A2)" />
+    <MESSAGE value="Finalisation de l'implémentation de la fabrique avec trois produits (A1, A2 et A3)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalisation de l'implémentation de la fabrique avec trois produits (A1, A2 et A3)" />
   </component>
 </project>
