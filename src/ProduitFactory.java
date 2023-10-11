@@ -1,6 +1,6 @@
 public class ProduitFactory {
     // Implémentation de la factory Method
-    // Initialisation des constantes permettant de distinguer le type
+    // Initialisation des constantes permettant de distinguer le type.
     public static final int TYPE_PRODUITA1 = 1;
     public static final int TYPE_PRODUITA2 = 2;
     public static final int TYPE_PRODUITA3 = 3;

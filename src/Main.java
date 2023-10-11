@@ -7,8 +7,7 @@ public class Main {
         ProduitFactory produitFactory = new ProduitFactory();
         ProduitA produitA = null;
         System.out.println("============ Debut ============");
-        // Produit A1
-        //
+        // Produit A1.
         produitA = produitFactory.getProduitA(ProduitFactory.TYPE_PRODUITA1);
         produitA.methodeA();
         // Aller à la ligne
