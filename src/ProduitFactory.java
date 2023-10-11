@@ -9,7 +9,7 @@ public class ProduitFactory {
     public ProduitA getProduitA(int typeProduit){
         ProduitA produitA = null;
         switch (typeProduit){
-            case TYPE_PRODUITA1 -> produitA = new ProduiA1();
+            case TYPE_PRODUITA1 -> produitA = new ProduitA1();
             case TYPE_PRODUITA2 -> produitA = new ProduitA2();
             case TYPE_PRODUITA3 -> produitA = new ProduitA3();
             default -> throw new IllegalArgumentException("Type de produit Inconnu");
